@@ -55,12 +55,12 @@ Vans从全球近100款货品里选择双十一核心货品，通过智能测款�
 年框VIP客户启用模型十次，可选择所有类目，不限于店铺经营类目
 #### 3.实际操作 - 模型参数设置
 * 页面：TMIC项目空间 -> 孵化器 -> 趋势情报局 -> 单品类市场机会
-![2-1-1](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/97a495e6c933a36dcf87c61470f02ce8.png)
+![97a495e6c933a36dcf87c61470f02ce8.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/97a495e6c933a36dcf87c61470f02ce8.png)
 ![3c949e017efc9ecea79386817c28e4c5.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/3c949e017efc9ecea79386817c28e4c5.png)
 ![3330114393093068933ef85e10c44f64.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/3330114393093068933ef85e10c44f64.png)
-![238dd3e624a658af1c7217c4a4a9f0be.png](en-resource://database/3302:1)
-![2440b41bb3e3dbb511c293b452f00a7e.png](en-resource://database/3304:1)
-![05d6e29ccd7c02bdaab20154d48dbb13.png](en-resource://database/3306:1)
+![238dd3e624a658af1c7217c4a4a9f0be.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/238dd3e624a658af1c7217c4a4a9f0be.png)
+![2440b41bb3e3dbb511c293b452f00a7e.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/2440b41bb3e3dbb511c293b452f00a7e.png)
+![05d6e29ccd7c02bdaab20154d48dbb13.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/05d6e29ccd7c02bdaab20154d48dbb13.png)
 24小时后可查看报告
 * 市场扫描
 * 需求洞察
@@ -75,16 +75,16 @@ Vans从全球近100款货品里选择双十一核心货品，通过智能测款�
 * 卖点分布
 
 ###### 趋势
-![b7a571dc5ea3b2e6356bfd9561f36a42.png](en-resource://database/3308:1)
+![b7a571dc5ea3b2e6356bfd9561f36a42.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/b7a571dc5ea3b2e6356bfd9561f36a42.png)
 * 市场趋势：月Sales，月Growth，price，市场用户指数（成交用户数的脱敏表达）
 高中低段品牌：品牌按年均价格排序(30%/40%/30%)
-![b903916ce3c3a429edc28a85b7fa1f9a.png](en-resource://database/3312:1)
+![b903916ce3c3a429edc28a85b7fa1f9a.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/b903916ce3c3a429edc28a85b7fa1f9a.png)
 * 绿色：近12个月，蓝色：去年同期
 * 最左边虽然规模很小，但增长了3倍左右
 
 ###### 词云图形式 - 卖点 
 **卖点(商品标题分词)**
-![38d4546477e460ea00700d737c735140.png](en-resource://database/3314:1)
+![38d4546477e460ea00700d737c735140.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/38d4546477e460ea00700d737c735140.png)
 **商品细分**
 * 全部商品
 * 热销商品：目标市场Top1000的商品
@@ -95,12 +95,12 @@ Vans从全球近100款货品里选择双十一核心货品，通过智能测款�
 * 筛选（如筛选类型：品牌词、品类词、普通词）
 
 ###### 表格形式 - 卖点指数
-![4d212c5dc0aac94f3c567179fe2bc81e.png](en-resource://database/3316:1)
+![4d212c5dc0aac94f3c567179fe2bc81e.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/4d212c5dc0aac94f3c567179fe2bc81e.png)
 * TOP1 为100分，下面为weighted index
 * 卖点机会指数可以理解为转化效率，表示特定的卖点关键词**出现在热卖商品中的概率**。
 $$\text{卖点机会指数}=\frac{\text{热销商品卖点指数}}{\text{全部商品热卖指数}}$$
 ###### 卖点分布图
-![32d290222f73c3363397bfae8c208ee7.png](en-resource://database/3318:1)
+![32d290222f73c3363397bfae8c208ee7.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/32d290222f73c3363397bfae8c208ee7.png)
 * 横轴：卖点增速（销售增长率）
 * 纵轴：卖点规模（销售规模）
 ##### B.需求洞察
@@ -109,7 +109,7 @@ $$\text{卖点机会指数}=\frac{\text{热销商品卖点指数}}{\text{全部�
 * 了解消费者需求点和当前市场的差距
 
 ###### 搜索相关分析
-![94ec9b6d5bc3395dd5e0631a25be9b42.png](en-resource://database/3339:1)
+![94ec9b6d5bc3395dd5e0631a25be9b42.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/94ec9b6d5bc3395dd5e0631a25be9b42.png)
 * 过去一个月的搜索信息
 * 横轴:搜索热度（被搜索次数的排名）
 * 纵轴:搜索增长率（对比去年同期）
@@ -120,7 +120,7 @@ $$\text{卖点机会指数}=\frac{\text{热销商品卖点指数}}{\text{全部�
 * 购买人群：购买人群
 
 ###### 评论相关分析
-![152195bfaf7b4035f70e04081706df92.png](en-resource://database/3340:1)
+![152195bfaf7b4035f70e04081706df92.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/152195bfaf7b4035f70e04081706df92.png)
 * 横轴：关注度(提及率)
 * 纵轴：用户满意度
 
@@ -130,13 +130,13 @@ $$\text{卖点机会指数}=\frac{\text{热销商品卖点指数}}{\text{全部�
 * 销售流转分析
 
 ###### 品牌集中度
-![a21fb52ded75d00c430c67418b4ae77b.png](en-resource://database/3341:1)
+![a21fb52ded75d00c430c67418b4ae77b.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/a21fb52ded75d00c430c67418b4ae77b.png)
 * 左侧：TOP10 players
 * 右侧：集中度（TOP10占比），与行业均值（一级类目）对比
 
 ###### 销售流转分析-品牌GMV变化分析
 **品牌GMV变化分析**
-![e742ec362e05ce92ca375a065b0e828b.png](en-resource://database/3342:1)
+![e742ec362e05ce92ca375a065b0e828b.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/e742ec362e05ce92ca375a065b0e828b.png)
 $$GMV = Sales + \text{取消订单/退货/未付款}...$$
 *↖可选* ：按3个月，6个月，12个月进行环比计算
 *↖标注* ：GMV总体变化 增长2W 
@@ -147,12 +147,12 @@ $$GMV = Sales + \text{取消订单/退货/未付款}...$$
 * 竞品用户增长本品牌购买
 
 **竞争品牌引起的GMV变化值**
-![ab322e67569a5db2420d6b94a907c0e0.png](en-resource://database/3290:1)
+![ab322e67569a5db2420d6b94a907c0e0.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/ab322e67569a5db2420d6b94a907c0e0.png)
 * **左纵轴(柱状) - 不同品牌预期值** - 0点以下为流转走给竞品的GMV，以上为从竞品获得的GMV。
 * **右纵轴(曲线) - 不同品牌流转值** - 流转指数：代表数据计算得到的流转数量是否高于/低于预期(历史数据的模拟生成)。
 
 ###### 品牌相似度分析
-![4b0f175f4c4fe8d97b8ce430366e2d31.png](en-resource://database/3292:1)
+![4b0f175f4c4fe8d97b8ce430366e2d31.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/4b0f175f4c4fe8d97b8ce430366e2d31.png)
 * 竞争激烈程度：品牌**消费者行为标签**趋同程度，越趋同，相同颜色圆越多，说明竞争越激烈
 * 普通竞争→较强竞争→直接竞争(对消费者相似度阈(yu)值进行调整得到):越→，阈值越高，消费者相似度越高
 
@@ -184,12 +184,12 @@ $$GMV = Sales + \text{取消订单/退货/未付款}...$$
 * 相关性（商品/品牌与消费者需求的匹配程度）
 * 可操作性（能否有效进入）
 * 优势性（进入或能否获得更多优势）
-![7b189dc6ad65576d9f14dc0095f465b8.png](en-resource://database/3345:1)
+![7b189dc6ad65576d9f14dc0095f465b8.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/7b189dc6ad65576d9f14dc0095f465b8.png)
 
 #### 实际操作 
 * 页面：TMIC项目空间 -> 孵化器 -> 趋势情报局 -> 趋势市场
 
-![b7f200d1b3f975f4265ca3f6044bbec4.png](en-resource://database/3346:1)
+![b7f200d1b3f975f4265ca3f6044bbec4.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/b7f200d1b3f975f4265ca3f6044bbec4.png)
 ##### Top200 细分市场明细
 **潜力指数TOP200** **趋势指数TOP200**
 * 市场名称：细分市场和卖点
@@ -200,12 +200,12 @@ $$GMV = Sales + \text{取消订单/退货/未付款}...$$
 * 商家集中度：头部商家的销售额市场份额占比
 * 商品集中度：头部商品的销售额市场份额占比
 * 高消费人群占比：细分市场中有较高消费能力的消费者数量/细分市场全部人群：表明该消费市场是否有消费升级或高价格产品进入的潜力
-![3f1249d3606e357037a23f489a2653ed.png](en-resource://database/3344:1)
+![3f1249d3606e357037a23f489a2653ed.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/3f1249d3606e357037a23f489a2653ed.png)
 **关注与应用**
 * 指数趋势
 * 用户画像
 * 商品信息
-![0ca95eea8e88bdcaa9c380e2f8253ff4.png](en-resource://database/3343:1)
+![0ca95eea8e88bdcaa9c380e2f8253ff4.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/0ca95eea8e88bdcaa9c380e2f8253ff4.png)
 **自定义搜索细分市场**
 
 
@@ -214,7 +214,7 @@ $$GMV = Sales + \text{取消订单/退货/未付款}...$$
 VIP客户：100个人群包 X 6个标签
 ##### 页面操作 
 * 页面：TMIC项目空间 -> 孵化器 -> 趋势情报局 -> 人群画像 ->新建研究项目
-![cb7a8975ce32870aa83662866001b582.png](en-resource://database/3347:1)
+![cb7a8975ce32870aa83662866001b582.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/cb7a8975ce32870aa83662866001b582.png)
 ##### 标签介绍
 ###### 标签分类
 * **基本属性**：性别、预测年龄段、出生年代、预测职业、预测学历、预测是否在校大学生、预测宝宝性别、预测宝宝年龄、预测人生阶段、预测孕期阶段
@@ -227,7 +227,7 @@ VIP客户：100个人群包 X 6个标签
 * **购买力**：叶子类目消费者购买的件单价和叶子类目消费权重计算得出，分为低、偏低、中低、高、偏高
 * **类目消费标签**：某类别下累计消费金额区间，用于类目消费能力人群的圈选
 * **用户行为轨迹**： 在指定的时间之内，用户在指定类目、渠道、本品牌、本店铺、本品牌商品、指定卖点关键词范围内的浏览、收藏、加购和购买行为，同时可以设置商品价格区间和行为次数，我们在输入类目的时候，系统会自动匹配相关的类目。
-![9bf7c59215d1f6112670c5852d4bde48.png](en-resource://database/3348:1)
+![9bf7c59215d1f6112670c5852d4bde48.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/9bf7c59215d1f6112670c5852d4bde48.png)
 
 ##### 人群圈选操作步骤
 * **私域人群圈选**
@@ -240,13 +240,12 @@ VIP客户：100个人群包 X 6个标签
 
 ##### 其他功能介绍
 ###### 人群包规模以及能实现的功能 （注意：私域和公域的定义）
-![e56952c97718a635c2f6547d6daa1feb.png](en-resource://database/3399:1)
+![e56952c97718a635c2f6547d6daa1feb.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/e56952c97718a635c2f6547d6daa1feb.png)
 ###### 二方人群导入
-![a161bcadfda8cab6b411f379174b7af1.png](en-resource://database/3401:1)
-
+![a161bcadfda8cab6b411f379174b7af1.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/a161bcadfda8cab6b411f379174b7af1.png)
 ### 3-2 明确目标人群-人群校准
 可以对比分析多个人群的画像
-![0e4350e89a5ae0b0d9e1c7f0cbd6f257.png](en-resource://database/3403:1)
+![0e4350e89a5ae0b0d9e1c7f0cbd6f257.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/0e4350e89a5ae0b0d9e1c7f0cbd6f257.png)
 与Target Group Index（目标群体指数）人群的显著性差异分析抽取出目标人群的核心特征，助力目标人群的行为分析。
 
 使用场景
@@ -257,7 +256,7 @@ VIP客户：100个人群包 X 6个标签
 
 ##### 演示操作
 人群画像->人群校准->启动模型->给模型报告起名字
-![da5ebcfb6624edd54a398343a6f3928f.png](en-resource://database/3405:1)
+![da5ebcfb6624edd54a398343a6f3928f.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/da5ebcfb6624edd54a398343a6f3928f.png)
 * 做对比的TGI人群（Benchmark）：TGI指数即目标群体指数，**默认为全网人群**，可自定义TGI人群包进行比对
 
 ##### 标签类别
@@ -287,11 +286,11 @@ VIP客户：100个人群包 X 6个标签
 * 媒体偏好-**动漫风格偏好**：根据用户在优酷的播放、收藏和评论等行为计算用户对动漫风格的偏好状况，取值为>=偏好度的用户人数在目标人群中的一个占比
 
 输入名称，选择TGI人群，选好标签。报告会在一个小时左右完成。
-![a8036c1f8ef1e42a5b543a6ef37edcf8.png](en-resource://database/3407:1)
+![a8036c1f8ef1e42a5b543a6ef37edcf8.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/a8036c1f8ef1e42a5b543a6ef37edcf8.png)
 
 TGI：表明目标群体有显著的特征值，查看的全网人群符合这个标签的显著性。显著性一般以100作为分界线，超过100代表显著性高。
 $$TGI=\frac{\text{分析人群在定义标签的人群占比}}{\text{TGI人群在定义标签上取值的人群占比}}* 100$$
-![726092d19a6dc83153888478e57276be.png](en-resource://database/3426:1)
+![726092d19a6dc83153888478e57276be.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/726092d19a6dc83153888478e57276be.png)
 **展现形式**
 * 条形图：人群比例+TGI指数(均可升降排序)
 * 柱状图：人群比例+TGI指数(均可升降排序)
@@ -306,12 +305,12 @@ $$TGI=\frac{\text{分析人群在定义标签的人群占比}}{\text{TGI人群�
 * 进入方式：
 项目空间->新品合伙人
 趋势市场->用户U&A
-![44b007b597d8b49a109feecb3354b437.png](en-resource://database/3428:1)
+![44b007b597d8b49a109feecb3354b437.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/44b007b597d8b49a109feecb3354b437.png)
 #### 问卷创建
 * 建立问卷方式
 直接创建
 利用模板创建
-![2184016e0d099b3b1ba871d9ee26982f.png](en-resource://database/3427:1)
+![2184016e0d099b3b1ba871d9ee26982f.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/2184016e0d099b3b1ba871d9ee26982f.png)
 * 题目类型(9种)
 单选题、单行文本题、评分题、多选矩阵题、附件题
 * 选项呈现的随机方式
@@ -328,7 +327,7 @@ TMIC问卷支持逻辑关系设置，即后置题目的出现可依赖前置题�
 * 在逻辑设置界面中定义逻辑关系，即依赖的前置题目、选项答案。可设置多条逻辑关系，逻辑关系之间支持**并集和交集**计算。
 * 添加完成逻辑设置后，题目右上角出现逻辑提示标
 
-![7bdc3f1a234b073ef63b7ed8ac2e937c.png](en-resource://database/3429:1)
+![7bdc3f1a234b073ef63b7ed8ac2e937c.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/7bdc3f1a234b073ef63b7ed8ac2e937c.png)
 
 ##### 逻辑前置题修改规则
 重要提示：
@@ -353,7 +352,7 @@ TMIC问卷支持**题目引用**和**选项引用**关系，即后置题的选�
 * 随机出现，从被引用前置题的多个选项答案中，随机选一个插入后置题目题干
 * 动态平均，从被引用前置题的多个选项答案中，根据每个选项答案的样本量判断，选一个插入后置题目题干，确保每个选项答案的样本量保持均衡
 * 平铺，把被引用前置题的多个选项答案用逗号分隔，全部插入后置题目题干
-![082b407f1d251ea6eeb6186151ecf4cc.png](en-resource://database/3430:1)
+![082b407f1d251ea6eeb6186151ecf4cc.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/7082b407f1d251ea6eeb6186151ecf4cc.png)
 #### 问卷模板
 ##### 问卷模板
 问卷模板是TMIC推出的解决问卷标准化，KPI题目Norm值沉淀、问卷跨项目复用，和常用题目跨问卷复用的高级功能
@@ -389,11 +388,11 @@ TMIC问卷支持**题目引用**和**选项引用**关系，即后置题的选�
 不得调研针对各电商渠道的满意度调查
 概念测试时，如需对竞品包装/概念版进行调研需要把竞品品牌logo、品牌名称做隐藏处理，且不能出现竞品品牌及产品名称
 **问卷投放流程**
-![93e1259cfae1c57248de0865a717f45a.png](en-resource://database/3432:1)
+![93e1259cfae1c57248de0865a717f45a.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/93e1259cfae1c57248de0865a717f45a.png)
 发布问卷：完成问卷编辑并确认问卷无误后，再发布问卷。发布后TMIC小二会排期对问卷进行审核。一个问卷投放会在一周内完成数据回收。
 
 ##### 问卷分析
-![2ec4586fca51a556f43b0081f55a1c74.png](en-resource://database/3431:1)
+![2ec4586fca51a556f43b0081f55a1c74.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/2ec4586fca51a556f43b0081f55a1c74.png)
 
 投放后在投放和分析里进行投放的终止操作，查看已投放**问卷浏览**及**查看总样本**、**有效样本数**、**今日新增数目**、**总体/今日UV数**。可以对问卷数据进行筛选和导出、生成独立人群包进行人群画像及后期推广使用
 
@@ -431,37 +430,37 @@ TMIC问卷支持**题目引用**和**选项引用**关系，即后置题的选�
 智能测款基本版一个店铺**免费次数10次**
 
 5. 消费者端用户体验链路
-![7248ad5277a6a1be80629192ba73c77e.png](en-resource://database/3433:1)
+![7248ad5277a6a1be80629192ba73c77e.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/7248ad5277a6a1be80629192ba73c77e.png)
 #### 实操入口 
 孵化器->仿真实验室->智能测款（专业版）->新建研究项目
 #### 实操内容
-![5208f897d88d45b03c8eb5e9ea4ea0bb.png](en-resource://database/3434:1)
+![5208f897d88d45b03c8eb5e9ea4ea0bb.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/5208f897d88d45b03c8eb5e9ea4ea0bb.png)
 1. 圈选测试的目标人群
 2. **测款页面**
 3. 创建投放及**数据分析**
 ##### 测款页面
 **活动信息填写**
-![52cc3dd570a5063716dc767f8caa21e3.png](en-resource://database/3435:1)
+![52cc3dd570a5063716dc767f8caa21e3.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/52cc3dd570a5063716dc767f8caa21e3.png)
 * 活动名称（不会向终端用户显示）
 * 活动目标（如新品测款，不会向终端用户显示）
 * 店铺名称
 * 店铺地址（系统自动抓取项目关联的店铺信息，店铺信息会在测款页面的规则说明中透出给消费者）
 **活动素材上传**
 * 商品信息上传
-下载商品信息表模板 ![b2783212cce20771840d9a9472aa3451.png](en-resource://database/3438:1)
+下载商品信息表模板 ![b2783212cce20771840d9a9472aa3451.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/b2783212cce20771840d9a9472aa3451.png)
 上传图片至空间，提取链接
 上传商品信息表（10~99款）
-*上传后会自动显示用户测款轮数和商品上传数，可以勾选最多3个属性标签向用户透出*![b1ed21cbd9ea2660d544a8202624e2ad.png](en-resource://database/3437:1)
+*上传后会自动显示用户测款轮数和商品上传数，可以勾选最多3个属性标签向用户透出*![b1ed21cbd9ea2660d544a8202624e2ad.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/b1ed21cbd9ea2660d544a8202624e2ad.png)
 * 装修页面
 品牌logo（PNG格式、底色透明）
 首页背景图
 PK页背景图
-*保存并预览（直接预览，或子账号登录千牛或手淘app扫码预览并体验用户使用的真实流程）*![2baf247a5282adde65578191e03bbb3a.png](en-resource://database/3436:1)
+*保存并预览（直接预览，或子账号登录千牛或手淘app扫码预览并体验用户使用的真实流程）*![2baf247a5282adde65578191e03bbb3a.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/2baf247a5282adde65578191e03bbb3a.png)
 发布页面：无需审核，即可进入创建投放流程
 
 ##### 数据分析
 三个维度数据分析
-* **潜力商品榜单**：消费者对测款的喜好度选择产品的商品排行![1de9b19a97dce895c7079b6ec08469bc.png](en-resource://database/3439:1)
+* **潜力商品榜单**：消费者对测款的喜好度选择产品的商品排行![1de9b19a97dce895c7079b6ec08469bc.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/1de9b19a97dce895c7079b6ec08469bc.png)
 测款页面的完成人数
 浏览人数
 得分：每当消费者选择了这个商品系统就会自动为这款商品增加相应的分数，得分越高越受欢迎
@@ -469,18 +468,18 @@ PK页背景图
 深度偏好：得分/覆盖用户，每款产品都会重复曝光
 支持榜单excel下载
 可以将完成测款的人群再次生成人群包，在人群校准模型里进行画像分析
-* **用户覆盖分析**![5cc66b7d4fbe345971a32f31f0a3064d.png](en-resource://database/3440:1)
+* **用户覆盖分析**![5cc66b7d4fbe345971a32f31f0a3064d.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/5cc66b7d4fbe345971a32f31f0a3064d.png)
 一般来说在一个特定的商品组合下，每新上一款商品带来新用户的边际效益是逐步递减的，这个模块可以辅助品牌用最少的上新成本获得较大的用户覆盖
 用户覆盖分析曲线：覆盖一定用户比例需要的最小商品数（排名前X的商品覆盖了XX%的用户）。
 竖虚线表示覆盖80%的用户所需要的最小商品数（80%的用户选择了前X款中的至少1款）。
-* **产品属性分析**![f0d1126d21f67d090bd93a6df4fb1272.png](en-resource://database/3441:1)
+* **产品属性分析**![f0d1126d21f67d090bd93a6df4fb1272.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/f0d1126d21f67d090bd93a6df4fb1272.png)
 根据上传商品信息表时填写的商品属性，对商品属性进行重要度和偏好度分析。可单选或多选参与分析的属性。
 **重要度**是各属性间的相对关系，哪一个属性更重要。通过属性重要度呈现
 **偏好度**是某一个属性下消费者喜好程度的体现。通过标签属性偏好度呈现
 
 ### 4-2 仿真测试
 #### 消费者体验链路
-![bd1942084314412a0ca93cc6307c62aa.png](en-resource://database/3443:1)
+![bd1942084314412a0ca93cc6307c62aa.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/bd1942084314412a0ca93cc6307c62aa.png)
 * TMIC官方渠道：猫客营销号
 * 用户手机弹窗/天猫app的“天猫活动”消息板块
 * 浏览仿真概念页面（模拟的商品详情页，所有的页面和交互都跟真实的商品详情页一摸一样）
@@ -488,7 +487,7 @@ PK页背景图
 * 完整或部分回答问卷后领取奖励（试用装/无门槛优惠券/…）
 
 #### 实操
-![99f3d4e2829811b2191fb78bcd53d9e1.png](en-resource://database/3442:1)
+![99f3d4e2829811b2191fb78bcd53d9e1.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/99f3d4e2829811b2191fb78bcd53d9e1.png)
 ##### 入口
 入口：孵化器->仿真实验室-> 仿真页面测试->新建研究项目
 ##### 创建项目
@@ -522,7 +521,7 @@ PK页背景图
     * 已下线
 
 * 投放开始后可以在“投放与分析”**查看数据**：浏览、购买、收藏、加购、客服和流失人数以及各个点击行为关联的问卷数据，会呈现日维度详细数据，多SKU会显示每个SKU的详细数据
-![54d5b598bc41cc2defc319bde73f9ddc.png](en-resource://database/3444:1)
+![54d5b598bc41cc2defc319bde73f9ddc.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/54d5b598bc41cc2defc319bde73f9ddc.png)
 
 * 投放数据回流之后可以**启动模型**对这些数据进行**进一步挖掘**，通过产品和人群的确认以及新品库存的准备完成上市前准备。
 
@@ -542,7 +541,7 @@ PK页背景图
     通过针对不同市场容量的新品找到合适的市场进入方式，比如是否需要大量的前期种草
 
 * 逻辑：通过页面测试找到**种子人群**（对页面感兴趣的人），在更大的潜在人群中找到**与种子人群相似的人**并使用这群人的规模推算整个概念的<u>**最大潜力**</u>
-![c253ceeee2d5e5f886495c1522cd3991.png](en-resource://database/3445:1)
+![c253ceeee2d5e5f886495c1522cd3991.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/c253ceeee2d5e5f886495c1522cd3991.png)
 * 实际操作：
     * 入口：仿真实验室->已完成的仿真测试->潜力预估->新建模型
     * 输入信息：模型名称、预估类目（更大的潜在人群池，可多选，优先从消费者洞察出发）、仿真页面（购买人数不少于100、可多选）、指定人群范围（选填）
@@ -577,17 +576,17 @@ PK页背景图
 * 提交后自动生成模型。模型计算时间为24小时
 
 #### 报告分析
-![57a9566c2fccffaf2424e2dc76cc6cde.png](en-resource://database/3446:1)
+![57a9566c2fccffaf2424e2dc76cc6cde.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/57a9566c2fccffaf2424e2dc76cc6cde.png)
 * 商品信息区：查询和确认生成报告时输入的所有信息，商品信息、对标竞品的价格区间、商品商家时间、覆盖时间，可以按月份查看报告
 * 模块切换区域
 * 内容展示区
 
 ##### 整体诊断概览
-![43dc03aeb48e061e152227cbf22dc3c7.png](en-resource://database/3448:1)
+![43dc03aeb48e061e152227cbf22dc3c7.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/43dc03aeb48e061e152227cbf22dc3c7.png)
 * 通过整体诊断模型对新品从综合评分及与对标商品的差距进行评估，**5个维度**，参考同品类（同一叶子类目下）同时期其他新品的表现综合打分，A-E 5个级别。
 * 蛛网图，蓝色是自身、绿色是品类top（同品类优品平均值）、黄色是自定义价格区间内新品中单品平均值。
 * 折线图，本品上市1~6个月内的趋势
-![0eef708e4a8d4f8621b0f0263248f74f.png](en-resource://database/3447:1)
+![0eef708e4a8d4f8621b0f0263248f74f.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/0eef708e4a8d4f8621b0f0263248f74f.png)
 * 客群画像：城市级别、预测年龄段、性别、购买力、兴趣偏好、叶子类目偏好、叶子类目消费金额、品牌偏好等维度的分布（图表/表格）
 * 客群**小于300**不予展示
 
