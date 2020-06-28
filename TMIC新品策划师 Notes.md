@@ -55,9 +55,9 @@ Vans从全球近100款货品里选择双十一核心货品，通过智能测款�
 年框VIP客户启用模型十次，可选择所有类目，不限于店铺经营类目
 #### 3.实际操作 - 模型参数设置
 * 页面：TMIC项目空间 -> 孵化器 -> 趋势情报局 -> 单品类市场机会
-![97a495e6c933a36dcf87c61470f02ce8.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/97a495e6c933a36dcf87c61470f02ce8.png)
+![2-1-1](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/97a495e6c933a36dcf87c61470f02ce8.png)
 ![3c949e017efc9ecea79386817c28e4c5.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/3c949e017efc9ecea79386817c28e4c5.png)
-![3330114393093068933ef85e10c44f64.png](en-resource://database/3300:1)
+![3330114393093068933ef85e10c44f64.png](https://github.com/gurusmile/Project-for-Resume/blob/data/TMIC%20notes/pics/3330114393093068933ef85e10c44f64.png)
 ![238dd3e624a658af1c7217c4a4a9f0be.png](en-resource://database/3302:1)
 ![2440b41bb3e3dbb511c293b452f00a7e.png](en-resource://database/3304:1)
 ![05d6e29ccd7c02bdaab20154d48dbb13.png](en-resource://database/3306:1)
