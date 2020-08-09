@@ -10,7 +10,7 @@ This file presents projects I made in my work. Please give me an oppotunity for 
 
 4.[客户关系管理CRM](https://github.com/gurusmile/Project-for-Work/tree/data/CRM)
 
-5.[SQL查询笔记](https://github.com/gurusmile/SQL)
+5.[SQL查询笔记](https://github.com/gurusmile/Project-for-Work/blob/data/SQL/select%20%E8%AF%AD%E5%8F%A5.md)
 
 ### Project for Work
 1.[运费预测 - 线性回归](https://github.com/gurusmile/Project-for-Work/blob/data/Work%20Project/predict_delivery_fee.ipynb)
